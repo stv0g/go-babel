@@ -17,11 +17,11 @@ go-babel is an (incomplete) implementation of the [Babel routing protocol](https
 
 ## Authors
 
-- Steffen Vogel (@stv0g)
+- Steffen Vogel ([@stv0g](https://github.com/stv0g))
 
 ## License
 
 go-babel is licenses under the Apache 2.0 license.
 
-SPDX-FileCopyrightText: 2023 Steffen Vogel <post@steffenvogel.de>
-SPDX-License-Identifier: Apache-2.0
+- SPDX-FileCopyrightText: 2023 Steffen Vogel <post@steffenvogel.de>
+- SPDX-License-Identifier: Apache-2.0
