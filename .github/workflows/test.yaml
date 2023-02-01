@@ -22,7 +22,6 @@ jobs:
 
     - name: Install dependencies
       run: |
-        go get .
         go install github.com/onsi/ginkgo/v2/ginkgo@v2.8.0
 
     - name: Build
